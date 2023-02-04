@@ -1,0 +1,2 @@
+Since the comments and some strings in the code are in Chinese, it can be confusing to use different compilers.
+由于代码里面的注释和部分字符串是中文，所以使用不同的编译器可能会出现乱码。
